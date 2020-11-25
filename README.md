@@ -14,4 +14,6 @@ Up - move up
 Down - move down
 
 
+Speed of the ball increases every time it touches paddles
+
 ![](illustration.gif)
